@@ -1,18 +1,30 @@
-body{
-    position: relative;
-    height: 100%;
-    width: 100%;
-    box-sizing: border-box;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #000;
-}
-h1{
+body {
+    background-color: black;
     text-align: center;
-    font-size: 50px;
-    color: #FFF;
-}
-a{
+    font-family: "Verdana", sans-serif;
+    color: white;
+  }
+  
+  .cta {
     color: aquamarine;
     font-size: 16px;
-    text-align: center;
-}
+  }
+  
+  h1 {
+    font-size: 50px;
+    font-weight: normal;
+  }
+  
+  h2 {
+    font-size: 42px;
+    font-weight: 300;
+  }
+  
+  p {
+    font-size: 21px;
+    color: gray;
+  }
+  
+  .footer {
+    text-align: right;
+  } 
